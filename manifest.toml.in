@@ -1,0 +1,9 @@
+name = "Balkan Romani"
+version = "@SPELLERVERSION@"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.rmn"
+
+[windows]
+system_product_code = "07B7730C-09BE-4537-BDAB-94F88DEC4D21"
+msoffice_product_code = "2432F5FA-A041-4896-A97B-80B78F076C67"
