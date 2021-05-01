@@ -1,3 +1,54 @@
+Noun inflection
+The Balkan Romani language nouns inflect in cases.
+
+
+
+Proper noun inflection
+The Balkan Romani language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Adjective inflection
+The Balkan Romani language adjectives compare.
+
+
+
+Verb inflection
+The Balkan Romani language verbs inflect in persons.
+
+
+
+=================================== !
+The Balkan Romani morphophonological/twolc rules file !
+=================================== !
+
+
+
+
+
+
+
+
+* *primus%>s*
+* *primus00*
+
+
+* examples:*
+
+* examples:*
+
+
+* examples:*
+
+* examples:*
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Balkan Romani, arli
 
@@ -77,6 +128,85 @@ given the proper use of these flags.
 The word forms in Romany language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
+
+Nouns
+Nouns in the Balkan Romani language are things.
+
+
+Prefixes
+Prefixes in the Balkan Romani language are bound to beginning of other words.
+
+
+
+Pronouns
+Pronouns in the Balkan Romani language are references to things.
+
+
+Adjectives
+Adjectives in the Balkan Romani language describe things.
+
+
+Verbs
+Verbs in the Balkan Romani language are actions.
+
+
+Numerals
+Numerals in the Balkan Romani language are numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 
